@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D65787ED25C8FE5B008BDFFD /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65787EC25C8FE5B008BDFFD /* SettingView.swift */; };
 		D6A9785525C7A92900E7EA97 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A9785425C7A92900E7EA97 /* AppDelegate.swift */; };
 		D6A9785725C7A92900E7EA97 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A9785625C7A92900E7EA97 /* SceneDelegate.swift */; };
 		D6A9785925C7A92900E7EA97 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A9785825C7A92900E7EA97 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D65787EC25C8FE5B008BDFFD /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 		D6A9785125C7A92900E7EA97 /* YoutubeUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoutubeUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6A9785425C7A92900E7EA97 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D6A9785625C7A92900E7EA97 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				D6A9785F25C7A92B00E7EA97 /* LaunchScreen.storyboard */,
 				D6A9786225C7A92B00E7EA97 /* Info.plist */,
 				D6A9785C25C7A92B00E7EA97 /* Preview Content */,
+				D65787EC25C8FE5B008BDFFD /* SettingView.swift */,
 			);
 			path = YoutubeUI;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D6A9785525C7A92900E7EA97 /* AppDelegate.swift in Sources */,
+				D65787ED25C8FE5B008BDFFD /* SettingView.swift in Sources */,
 				D6A9785725C7A92900E7EA97 /* SceneDelegate.swift in Sources */,
 				D6A9785925C7A92900E7EA97 /* ContentView.swift in Sources */,
 			);
